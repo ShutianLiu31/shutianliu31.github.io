@@ -33,9 +33,9 @@ Please find the timely updated list on my Google Scholar Profile
 
 **Book Chapters**
 
-1. S. Liu. and Q. Zhu, "[Cyber Insurance for Cyber Resilience](https://arxiv.org/pdf/2312.02921)", in Automated Cyber Resilience, JohnWiley & Sons, to appear.
+1. S. Liu. and Q. Zhu, "[Cyber insurance for cyber resilience](https://arxiv.org/pdf/2312.02921)", in Automated Cyber Resilience, JohnWiley & Sons, to appear.
 appear.
-1. F. Fang, S. Liu, A. Basak, Q. Zhu, C. D. Kiekintveld, and C. A. Kamhoua, "[Cyber Insurance for Cyber Resilience](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119723950.ch2)", in Game Theory and Machine Learning for Cyber Security, JohnWiley & Sons, pp. 21-46, 2021
+1. F. Fang, S. Liu, A. Basak, Q. Zhu, C. D. Kiekintveld, and C. A. Kamhoua, "[Introduction to game theory](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119723950.ch2)", in Game Theory and Machine Learning for Cyber Security, JohnWiley & Sons, pp. 21-46, 2021
 
 
 
@@ -69,7 +69,7 @@ using federated evolutionary games](https://ieeexplore.ieee.org/document/9867809
 
 1. S. Liu and Q. Zhu, "[Dynamic information manipulation game](https://arxiv.org/pdf/2312.07862)," under major revision for Mathematics of Operations Research, 2024. 
 
-1. S. Liu and Q. Zhu, "[Mitigating Moral Hazard in Insurance contracts using risk preference design](https://arxiv.org/pdf/2203.12001)," under major revision for Operations Research Letters, 2024.
+1. S. Liu and Q. Zhu, "[Mitigating moral hazard in insurance contracts using risk preference design](https://arxiv.org/pdf/2203.12001)," under major revision for Operations Research Letters, 2024.
 
 1. S. Liu and Q. Zhu, "[On the impact of gaslighting on partially observed stochastic control](https://arxiv.org/pdf/2304.01134)," arXiv preprint, 2023, arXiv:2304.01134.
 
