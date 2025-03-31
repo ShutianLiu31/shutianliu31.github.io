@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I will be joining the Department of Systems Engineering at City University of Hong Kong as a tenure-track assistant professor in June 2025. 
+I will be joining the [Department of Systems Engineering at City University of Hong Kong](https://www.cityu.edu.hk/sye/) as a tenure-track assistant professor in June 2025. 
 
 I obtained my Ph.D. from the Department of Electrical and Computer Engineering at New York University in 2024. I received M.S. from the Department of Electrical Engineering at Columbia University in 2018 and B.E. from the Department of Automation at Tsinghua University in 2016.
 
@@ -28,7 +28,7 @@ Research Interests
 Publications
 ======
 
-Please find the timely updated list on my Google Scholar Profile
+Please find the timely updated list on my [Google Scholar Profile](https://scholar.google.com/citations?user=xLVhDCcAAAAJ&hl=en).
 
 
 **Book Chapters**
