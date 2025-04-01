@@ -20,7 +20,7 @@ Contact: shutian.liu AT cityu DOT edu DOT hk
 Research Interests
 ======
 
-My research interests lie broadly in Game Theory, Optimization/Control Theory, Risk Analytics/Management, Network Science, and their intersections. Key application domains include Adversarial AI, Socio-Technical Systems Security, Human Factors, Misinformation, and Public Health.
+My research interests lie broadly in Game Theory, Optimization/Control Theory, Risk Analytics/Management, Network Science, and their intersections. Key application domains include multidisciplinary areas such as Adversarial AI, Socio-Technical Systems Security, Human Factors, Misinformation, and Public Health.
 
 Some of my recent interests include:
 1. Information design/manipulation in partially observable Markov decision processes and games of incomplete information.
