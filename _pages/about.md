@@ -23,8 +23,8 @@ Research Interests
 My research interests lie broadly in Game Theory, Optimization/Control Theory, Risk Analytics/Management, Network Science, and their intersections. Key application domains include Adversarial AI, Socio-Technical Systems Security, Human Factors, Misinformation, and Public Health.
 
 Some of my recent interests include:
-1. Information design in partially observable Markov decision processes and games of incomplete information.
-1. Risk preference maneuvering: robustifying data-driven stochastic optimization and insurance contract design.
+1. Information design/manipulation in partially observable Markov decision processes and games of incomplete information.
+1. Risk preference maneuvering in data-driven stochastic optimization and insurance contract design.
 1. Population games over complex networks: epidemic modelling and public health policy design.
 1. Information sharing network reconfiguration in AI for health.
 
