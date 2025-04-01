@@ -17,12 +17,14 @@ I am actively looking for Ph.D. students starting in Fall 2025. If your research
 
 Research Interests
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+
+My research interests lie broadly in Game Theory, Optimization/Control Theory, Risk Analytics/Management, Network Science, and their intersections. Key application domains include AI, Socio-Technical Systems Security, Human Factors, Misinformation, and Public Health.
+
+Some recent projects:
+1. Information design in partially observable Markov decision processes and games of incomplete information.
+1. Risk preference maneuvering in data-driven stochastic optimization and insurance contract design.
+1. Epidemic modeling with population games over complex networks.
+1. Network reconfiguration in distributed optimization/learning systems.
 
 
 Publications
