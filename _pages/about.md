@@ -35,7 +35,7 @@ Please find the timely updated list on my [Google Scholar Profile](https://schol
 **Book Chapters**
 
 1. S. Liu. and Q. Zhu, "[Cyber insurance for cyber resilience](https://arxiv.org/pdf/2312.02921)", in Automated Cyber Resilience, JohnWiley & Sons, to appear.
-appear.
+   
 1. F. Fang, S. Liu, A. Basak, Q. Zhu, C. D. Kiekintveld, and C. A. Kamhoua, "[Introduction to game theory](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119723950.ch2)", in Game Theory and Machine Learning for Cyber Security, JohnWiley & Sons, pp. 21-46, 2021
 
 
