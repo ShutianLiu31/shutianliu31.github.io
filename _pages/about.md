@@ -13,7 +13,9 @@ I obtained my Ph.D. from the Department of Electrical and Computer Engineering a
 
 Openings
 ======
-I am actively looking for Ph.D. students starting in Fall 2025. If your research interests are compatible with mine, please contact me with your CV. Contact: shutian.liu AT cityu DOT edu DOT hk
+I am actively looking for Ph.D. students starting in Fall 2025. If your research interests are compatible with mine, please contact me with your CV. 
+
+Contact: shutian.liu AT cityu DOT edu DOT hk
 
 Research Interests
 ======
