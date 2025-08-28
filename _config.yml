@@ -27,8 +27,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "" #"Short biography for the left-hand sidebar"
   location         : #""
-  employer         : #"" # "Red Brick University"
-  uri              : # URL
+  employer         : "City University of Hong Kong" # "Red Brick University"
+  uri              : "https://www.cityu.edu.hk/stfprofile/shutian.liu.htm"
   email            : "shutian.liu@cityu.edu.hk" #"none@example.org" 
 
   # Academic websites
