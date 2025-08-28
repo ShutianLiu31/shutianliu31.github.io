@@ -7,26 +7,29 @@ redirect_from:
   - /about.html
 ---
 
-I will be joining the [Department of Systems Engineering at City University of Hong Kong](https://www.cityu.edu.hk/sye/) as a tenure-track assistant professor in June 2025. 
+I am an Assistant Professor at the [Department of Systems Engineering at City University of Hong Kong](https://www.cityu.edu.hk/sye/). 
 
-I obtained my Ph.D. from the Department of Electrical and Computer Engineering at New York University in 2024. I received M.S. from the Department of Electrical Engineering at Columbia University in 2018 and B.E. from the Department of Automation at Tsinghua University in 2016.
+Previously, I obtained my Ph.D. from the Department of Electrical and Computer Engineering at New York University, M.S. from the Department of Electrical Engineering at Columbia University, and B.E. from the Department of Automation at Tsinghua University.
 
 Openings
 ======
-I am actively looking for Ph.D. students starting in Fall 2025. If your research interests are compatible with mine, please contact me with your CV and unofficial transcripts. 
+**I am actively looking for Ph.D. students starting in Fall 2026. If your research interests are compatible with mine, please don't hesitate to contact me with your CV and transcripts.** 
 
 Contact: shutian.liu AT cityu DOT edu DOT hk
 
 Research Interests
 ======
 
-My research interests lie broadly in Game Theory, Optimization/Control Theory, Risk Analytics/Management, Network Science, and their applications in multidisciplinary areas such as Adversarial AI, Socio-Technical Systems Security, Human Factors, Misinformation, and Public Health.
+My research interests lie broadly in Game Theory, Optimization/Control, Risk Analytics/Management, Network Science, and their applications in multidisciplinary areas such as Adversarial AI, Socio-Technical Systems Security, Human Factors, Misinformation, and Public Health.
 
 Some of my recent interests include:
-1. Information design/manipulation in partially observable Markov decision processes and games of incomplete information.
-1. Risk preference maneuvering in data-driven stochastic optimization and insurance contract design.
-1. Population games over complex networks: epidemic modelling and public health policy design.
-1. Information sharing network reconfiguration in AI for health.
+1. Information design in partially observable systems and games of incomplete information.
+1. Risk preference and belief maneuvering in data-driven stochastic optimization.
+1. Population/Meanfield games over complex networks.
+1. Cybersecutiy, cyber deception, cyber insurance.
+1. Epidemic modelling/control and public health policy design.
+1. Federated learning and strategic network design in AI for health.
+
 
 Publications
 ======
