@@ -47,7 +47,9 @@ Please find the timely updated list on my [Google Scholar Profile](https://schol
 
 **Jounral Articles**
 
-1. S. Liu and Q. Zhu, "[Stackelberg risk preference design](https://link.springer.com/article/10.1007/s10107-024-02083-2)", Mathematical Programming, 2024.
+1. S. Liu and Q. Zhu, "[Mitigating moral hazard in insurance contracts using risk preference design](https://www.sciencedirect.com/science/article/pii/S0167637725000835)," Operations Research Letters, 107322, 2025.
+
+1. S. Liu and Q. Zhu, "[Stackelberg risk preference design](https://link.springer.com/article/10.1007/s10107-024-02083-2)", Mathematical Programming 209 (1), 785-823, 2024.
   
 1. S. Liu, T. Li, and Q. Zhu, "[Game-theoretic distributed empirical risk minimization with strategic network
 design](https://ieeexplore.ieee.org/document/10223413)", IEEE Transactions on Signal and Information Processing over Networks, vol. 9, pp. 542-556, 2023.
@@ -74,8 +76,6 @@ using federated evolutionary games](https://ieeexplore.ieee.org/document/9867809
 **Working Papers**
 
 1. S. Liu and Q. Zhu, "[Dynamic information manipulation game](https://arxiv.org/pdf/2312.07862)," under major revision for Mathematics of Operations Research, 2024. 
-
-1. S. Liu and Q. Zhu, "[Mitigating moral hazard in insurance contracts using risk preference design](https://arxiv.org/pdf/2203.12001)," under major revision for Operations Research Letters, 2024.
 
 1. S. Liu and Q. Zhu, "[On the impact of gaslighting on partially observed stochastic control](https://arxiv.org/pdf/2304.01134)," arXiv preprint, 2023, arXiv:2304.01134.
 
