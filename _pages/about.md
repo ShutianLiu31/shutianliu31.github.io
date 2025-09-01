@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at the [Department of Systems Engineering at City University of Hong Kong](https://www.cityu.edu.hk/sye/). 
+I am an Assistant Professor at the [Department of Systems Engineering at City University of Hong Kong](https://www.cityu.edu.hk/stfprofile/shutian.liu.htm). 
 
 Previously, I obtained my Ph.D. from the Department of Electrical and Computer Engineering at New York University, M.S. from the Department of Electrical Engineering at Columbia University, and B.E. from the Department of Automation at Tsinghua University.
 
@@ -20,7 +20,7 @@ Contact: shutian.liu AT cityu DOT edu DOT hk
 Research Interests
 ======
 
-My research interests lie broadly in Game Theory, Optimization/Control, Risk Analytics/Management, Network Science, and their applications in multidisciplinary areas such as Adversarial AI, Socio-Technical Systems Security, Human Factors, Misinformation, and Public Health.
+My research interests lie in Game Theory, Optimization/Control, Risk Analytics, and their applications in Adversarial AI, Socio-Technical Systems Security, Human Factors, Misinformation, and Public Health.
 
 Some of my recent interests include:
 1. Information design in partially observable systems and games of incomplete information.
